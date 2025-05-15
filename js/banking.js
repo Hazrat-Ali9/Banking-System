@@ -5,7 +5,7 @@ function getInputValue(inputId){
     inputField.value = '';
     return inputFieldValueParse;
 }
-
+// Banking js
 
 function updateTotalField(totalFieldId,amountValue){
 
